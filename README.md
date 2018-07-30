@@ -2,4 +2,4 @@
 Cowsay but for weebs 
 
 
-Project Idea
+[Project Idea]
